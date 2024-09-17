@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('~/assets/fonts/Montserrat.ttf');
+}
+
+@font-face {
+    font-family: 'Bebas';
+    src: url('~/assets/fonts/Bebas.ttf');
+}
+
+@font-face {
+    font-family: 'Gobold';
+    src: url('~/assets/fonts/Gobold.otf');
+}
