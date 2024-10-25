@@ -11,7 +11,7 @@
 
                 <h4 class="font-montserrat font-bold text-lg">{{ title }}</h4>
 
-                <p class="font-montserrat text-sm line-clamp-4">
+                <p class="font-montserrat text-sm line-clamp-3 md:line-clamp-4">
                     {{ description }}
                 </p>
 
