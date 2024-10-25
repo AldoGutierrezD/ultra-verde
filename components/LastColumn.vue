@@ -1,7 +1,7 @@
 <template>
     <section id="ultima-columna" class="w-full px-10 md:px-32 xl:px-60 mb-32 text-center flex flex-col justify-center items-center dark:text-accent">
 
-        <h3 class="font-bebas font-bold text-6xl mb-3">{{ column.title }}</h3>
+        <h3 class="font-bebas font-bold text-4xl md:text-6xl mb-3">{{ column.title }}</h3>
 
         <time
           :datetime="`${column.date}`"
