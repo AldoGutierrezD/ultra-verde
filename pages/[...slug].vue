@@ -8,7 +8,7 @@
       :alt="`${column.title}`"
       class="w-full h-auto rounded-xl mb-10">
 
-    <h1 class="font-bebas text-3xl md:text-5xl text-center mb-5">{{ column.title }}</h1>
+    <h1 class="font-bebas font-bold text-3xl md:text-5xl text-center mb-5">{{ column.title }}</h1>
 
     <hr class="border-black border-1 mb-5 dark:border-accent">
 
