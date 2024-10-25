@@ -11,9 +11,9 @@
             </div>
             <div class="w-full md:w-1/3 mb-6 text-center">
                 <ul class="text-xs md:text-base">
-                    <li class="mb-2 hover:underline hover:underline-offset-4"><a href="#ultima-columna">columna más reciente</a></li>
-                    <li class="mb-2 hover:underline hover:underline-offset-4"><a href="#columnas">últimas publicaciones</a></li>
-                    <li class="mb-2 hover:underline hover:underline-offset-4"><a href="#sobre-mi">sobre mí</a></li>
+                    <li class="mb-2 hover:underline hover:underline-offset-4"><a href="/#ultima-columna">columna más reciente</a></li>
+                    <li class="mb-2 hover:underline hover:underline-offset-4"><a href="/#columnas">últimas publicaciones</a></li>
+                    <li class="mb-2 hover:underline hover:underline-offset-4"><a href="/#sobre-mi">sobre mí</a></li>
                 </ul>
             </div>
             <div class="w-full md:w-1/3 mb-6 text-center">
