@@ -67,7 +67,6 @@ const column = await queryContent(path).findOne();
 const randomColumns = await queryContent('/')
   .without('body')
   .where({ active: true })
-  .skip(1)
   .limit(3)
   .find()
 

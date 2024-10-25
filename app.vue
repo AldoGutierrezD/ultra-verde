@@ -4,6 +4,12 @@
   </div>
 </template>
 
+<style>
+html {
+  scroll-behavior: smooth;
+}
+</style>
+
 <script setup lang="ts">
 useHead({
   title: 'Ultra Verde | Blog del Club León por Baltazar Gutiérrez',

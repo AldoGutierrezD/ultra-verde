@@ -7,7 +7,7 @@
 
         <div class="w-full flex flex-col md:flex-row font-montserrat font-light dark:text-accent">
             <div class="w-full md:w-1/3 mb-6 text-center text-xs md:text-base">
-                <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Hic nostrum dicta odio nihil fugit. Dicta ea similique ratione. Dolorum illum nemo consequuntur exercitationem cum? Temporibus?</p>
+                <p>En Ultra Verde, comparto mi amor por el Club León a través de anécdotas únicas, historias vibrantes y momentos inolvidables de mis años apoyando al equipo. Es un espacio donde la emoción del fútbol y el orgullo esmeralda se sienten en cada palabra.</p>
             </div>
             <div class="w-full md:w-1/3 mb-6 text-center">
                 <ul class="text-xs md:text-base">
