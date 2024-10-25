@@ -8,7 +8,8 @@ export default defineNuxtConfig({
     '@stefanobartoletti/nuxt-social-share'
   ],
   css: [
-    'boxicons/css/boxicons.min.css'
+    'boxicons/css/boxicons.min.css',
+    '@/assets/css/input.css'
   ],
   routeRules: {
     '/': { prerender: true }
